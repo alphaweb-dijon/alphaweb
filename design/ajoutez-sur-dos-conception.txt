@@ -1,0 +1,18 @@
+techno utilisé pour intégration
+ - HTML
+ - CSS
+ - JavaScript
+ - PHP (avec les functions wp)
+ - MySQL
+EXTENTION WP
+ - SEO
+    * Internal Link Juicer (SEO)
+ - passage en production d'un site développé en local
+ - statistiques
+    * Matomo (alternative a google analytique)
+ - sécurisation
+    * gotmls (ddos et malwares) => https://fr.wordpress.org/plugins/gotmls/
+    * ou alors better-wp-security
+    * la sécurisation nécessite également un arangement a minima du .hthaccess de racine.
+
+(sugestions)
